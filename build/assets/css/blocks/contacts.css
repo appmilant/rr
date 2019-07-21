@@ -1,0 +1,21 @@
+.contacts {
+    display: inline-block;
+}
+.contacts__phone {
+    color: inherit;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.contacts__keeptouch {
+    font-size: 15px;
+    opacity: .6;
+}
+.contacts {
+    position: absolute;
+    top: 20px;
+    right: 0;
+    text-align: right;
+    font-style: normal;
+}

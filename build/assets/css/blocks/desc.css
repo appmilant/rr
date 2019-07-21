@@ -1,0 +1,18 @@
+.desc__image {
+    margin-bottom: 22px;
+    width: 880px;
+    height: 354px;
+    background-image: url(../../img/photo.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.desc__text {
+    position: absolute;
+    top: 49px;
+    left: 65px;
+    color: #fff;
+    font-size: 49px;
+    font-weight: bold;
+    letter-spacing: .08em;
+}

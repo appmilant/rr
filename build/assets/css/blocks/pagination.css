@@ -1,0 +1,12 @@
+.pagination__pages-list {
+    display: flex;
+    justify-content: center;
+}
+.pagination__controlls {
+    display: flex;
+    justify-content: center;
+}
+.pagination__display {
+    display: flex;
+    justify-content: center;
+}

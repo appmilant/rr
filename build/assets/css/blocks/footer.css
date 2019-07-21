@@ -1,0 +1,24 @@
+.footer {
+    background: #4b74b6;
+    color: #ffff;
+
+   }
+   .footer__container {
+    position: relative;
+    height: 77px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+   }
+   .footer__text {
+       width: 27%;
+  }
+   /*.socialsocial__icon-wrap {
+     background: #fafafa;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    position: relative;
+}
